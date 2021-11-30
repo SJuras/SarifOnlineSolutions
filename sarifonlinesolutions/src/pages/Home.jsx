@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import HeroIntro from '../components/HeroIntro.jsx';
 import Footer from '../components/Footer.jsx';
 
 
@@ -9,7 +10,7 @@ import Footer from '../components/Footer.jsx';
 const Home = () => {
   return(
     <>
-      Home
+      <HeroIntro />
       <Footer />
     </>
   );
