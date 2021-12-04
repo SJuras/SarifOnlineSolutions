@@ -140,7 +140,7 @@ const Footer = () => {
               <FooterBoxH5>Navigation</FooterBoxH5>
               <FooterBoxUl>
                 <FooterBoxUlLi><NavLink to="/">Home</NavLink></FooterBoxUlLi>
-                <FooterBoxUlLi><NavLink to="/">About Us</NavLink></FooterBoxUlLi>
+                <FooterBoxUlLi><NavLink to="/about">About Us</NavLink></FooterBoxUlLi>
                 <FooterBoxUlLi><NavLink to="/">Our Work</NavLink></FooterBoxUlLi>
                 <FooterBoxUlLi><NavLink to="/">Contact</NavLink></FooterBoxUlLi>
               </FooterBoxUl>
