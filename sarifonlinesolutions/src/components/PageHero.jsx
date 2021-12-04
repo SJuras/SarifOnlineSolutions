@@ -19,7 +19,7 @@ const PageHeroInner = styled.div`
   width: 70%;
   margin: 0 auto;
   @media (max-width: 575.98px){
-    width: 90%;
+    width: 70%;
   }
 `
 

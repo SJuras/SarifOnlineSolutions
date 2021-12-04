@@ -5,6 +5,8 @@ import Globe from '../assets/globe.png';
 
 import PageHero from '../components/PageHero.jsx';
 import ProductListSingle from '../components/ProductListSingle.jsx';
+import ContactDetails from '../components/ContactDetails.jsx';
+import ContactFormPart from '../components/ContactFormPart.jsx';
 import Footer from '../components/Footer.jsx';
 
 
@@ -17,7 +19,8 @@ const Contact = () => {
         title2="Our Work"
         src={Globe}
       />
-      <ProductListSingle />
+      <ContactDetails />
+      <ContactFormPart />
       <Footer />
     </>
   );
