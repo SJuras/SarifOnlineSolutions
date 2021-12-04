@@ -141,8 +141,8 @@ const Footer = () => {
               <FooterBoxUl>
                 <FooterBoxUlLi><NavLink to="/">Home</NavLink></FooterBoxUlLi>
                 <FooterBoxUlLi><NavLink to="/about">About Us</NavLink></FooterBoxUlLi>
-                <FooterBoxUlLi><NavLink to="/">Our Work</NavLink></FooterBoxUlLi>
-                <FooterBoxUlLi><NavLink to="/">Contact</NavLink></FooterBoxUlLi>
+                <FooterBoxUlLi><NavLink to="/work">Our Work</NavLink></FooterBoxUlLi>
+                <FooterBoxUlLi><NavLink to="/contact">Contact</NavLink></FooterBoxUlLi>
               </FooterBoxUl>
             </FooterBox1>
           </FooterRowHalf>
