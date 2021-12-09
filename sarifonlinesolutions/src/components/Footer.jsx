@@ -150,9 +150,9 @@ const Footer = () => {
             <FooterBox1>
               <FooterBoxH5>Useful Links</FooterBoxH5>
               <FooterBoxUl>
-                <FooterBoxUlLi><OutLink href="#">Ethereum</OutLink></FooterBoxUlLi>
-                <FooterBoxUlLi><OutLink href="#">Blockchain</OutLink></FooterBoxUlLi>
-                <FooterBoxUlLi><OutLink href="#">dApp</OutLink></FooterBoxUlLi>
+                <FooterBoxUlLi><OutLink href="https://ethereum.org/en/">Ethereum</OutLink></FooterBoxUlLi>
+                <FooterBoxUlLi><OutLink href="https://www.blockchain.com/">Blockchain</OutLink></FooterBoxUlLi>
+                <FooterBoxUlLi><OutLink href="https://www.dapp.com/">dApp</OutLink></FooterBoxUlLi>
               </FooterBoxUl>
             </FooterBox1>
             <FooterBox1>
